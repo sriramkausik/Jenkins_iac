@@ -1,3 +1,3 @@
 def call() {
-  echo 'Hi ${myVariable}'
+  echo "Hi ${myVariable}"
 }
